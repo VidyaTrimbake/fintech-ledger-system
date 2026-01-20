@@ -10,6 +10,7 @@ import java.time.LocalDateTime;
 @Table(name = "accounts")
 @Getter
 @Setter
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
